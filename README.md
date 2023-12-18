@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 Hobbyest Programmer
--------------------I'm interested in using computers and mathematics to create art. Also making chess engines and low level programming.
+
+I'm interested in using computers and mathematics to create art. Also making chess engines and low level programming.
 
 ### Skills
 

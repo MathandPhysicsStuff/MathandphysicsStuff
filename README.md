@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-Hobbyest Programmer
-
-I don't really know what I'm doing I just try stuff and fly by the seat of my pants.
+Hobbyist Programmer
 
 ### Skills
 
